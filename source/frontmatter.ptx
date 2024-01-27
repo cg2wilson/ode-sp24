@@ -17,6 +17,12 @@
       <institution>Stephen F. Austin State University</institution>
       <email>judsontw@sfasu.edu</email>
     </author>
+    <author>
+      <personname>Cory Wilson</personname>
+      <department>Department of Mathematics</department>
+      <institution>Oklahoma City Community College</institution>
+      <email>cory.g.wilson@occc.edu</email>
+    </author>
     <date><today/></date>
   </titlepage>
 
@@ -45,7 +51,20 @@
     </dedication>
 
     <preface>
-
+        <p>
+          <em>The Ordinary Differential Equations Project - OCCC Edition</em> is adapted from Thomas W. Judson's Open Educational Resource (OER) <em>The Ordinary Differential Equations Project</em>, which was published under a GNU Free Documentation License in 2018. This version of the textbook is written to align more closely and directly with Oklahoma City Community College's Math 2413 course, specifically the implementation followed in Spring 2024.
+        </p>
+        <p>
+          This arrangement of the text, which will likely be in-progress for the duration of the Spring 2024 semester, is different from the original in that 1) Laplace transforms are introduced in the first unit; 2) numerical solutions to differential equations are deemphasized; 3) nonlinear systems are not addressed; 4) special topics corresponding to student interest were added. Future iterations of this version will involve more specific changes to exercises, inclusion of external resources, and likely rearrangement.
+        </p>
+        <p>
+          Wording for this preface has been appropriated from the very well-worded preface in <em>Coordinated Differential Equations</em>, another flavor of the original text which was developed by Austin Eide and Adam Larios at the University of Nebraska - Lincoln. Judson's original preface is included below for completeness. 
+        </p>
+        <p>
+          <em>Cory Wilson</em><br/>
+          <em>Oklahoma City Community College</em><br/>
+          <em>Oklahoma City, Oklahoma 73159</em>
+        </p>
         <p>This text is intended for an undergraduate course in ordinary differential equations. <em>The Ordinary Differential Equations Project</em> began when the author was teaching the ordinary differential equations course at Harvard University. After arriving at Stephen F. Austin State University, the Harvard notes began to transform into the makings of a textbook.  At the same time, the author was converting his abstract algebra book, <em>Abstract Algebra: Theory and Applications</em> (<url href="http://abstract.pugetsound.edu/index.html" visual="abstract.pugetsound.edu/index.html" >http://abstract.pugetsound.edu/index.html</url>) from LaTeX into MathBook XML. With MathBook XML, which is now <pretext /> (<url href="https://pretextbook.org" visual="pretextbook.org" >https://pretextbook.org</url>), one can produce HTML, PDF, EPUB, and even braille versions of a textbook while only having to maintain the <pretext /> source.  <em>The Ordinary Differential Equations Project</em> is now available on <url href="https://runestone.academy" visual="runestone.academy" >https://runestone.academy</url>,  a Learning Engineering and Analytics Portal (LEAP) for hosting textbooks, assignments, and interactive learning activities.</p>
 
         <p>There has been a strong trend during the past few decades to incorporate both modeling and technology into undergraduate differential equations courses. Since it is easy to insert computational cells inside an HTML version of the textbook with PreTeXt, there is now an opportunity to seemlessly embed technology into the textbook. Sage (<url href="http://sagemath.org" visual="sagemath.org" >sagemath.org</url>), our technolgy of choice, is a free, open source, software system for advanced mathematics.  Sage is ideal for assisting with a study of ordinary differential equations, since it cannot only be embedded as computational cells in a textbook, it can also be used on a computer, a local server, or on CoCalc (<url href="https://cocalc.com" visual="cocalc.com" >https://cocalc.com</url>). The Sage code in <em>The Ordinary Differential Equations Project</em> has been tested for accuracy with the most recent version available at this time: Sage Version 9.2 (released 2020<ndash />10<ndash />24).</p>

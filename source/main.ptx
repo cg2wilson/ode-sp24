@@ -19,9 +19,9 @@
   <!-- The <book> tags wrap all the content.  Change the @xml:id   -->
   <!-- to some short (non-spaced) description of your book         -->
   <book xml:id="odeproject">
-<title>The Ordinary Differential Equations Project</title>
+<title>The Ordinary Differential Equations Project - OCCC Edition</title>
 
-    <!-- Now we include files containing each main devision.       -->
+    <!-- Now we include files containing each main division.       -->
 
     <!-- First a frontmatter for prefaces and such. Maybe comment  -->
     <!-- out for now and write this when the book is more complete -->
